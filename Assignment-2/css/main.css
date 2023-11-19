@@ -1,0 +1,4 @@
+/* Add your custom CSS here */
+#companiesTable tr:hover {
+    cursor: pointer;
+}
