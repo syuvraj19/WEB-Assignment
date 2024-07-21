@@ -13,11 +13,10 @@ Welcome to my Web Programming Courses Portfolio! This repository showcases the a
 - [Course Descriptions](#course-descriptions)
 - [Projects and Assignments](#projects-and-assignments)
   - [WEB222](https://www.senecapolytechnic.ca/ssos/findOutline.do?isLoggedIn=&subjectOrAndTitle=web222)
-  - [WEB322](#web322)
-  - [WEB422](#web422)
+  - [WEB322](https://www.senecapolytechnic.ca/ssos/findOutline.do?isLoggedIn=&subjectOrAndTitle=web322)
+  - [WEB422](https://www.senecapolytechnic.ca/ssos/findOutline.do?isLoggedIn=&subjectOrAndTitle=web422)
 - [Technologies Used](#technologies-used)
 - [How to Run the Projects](#how-to-run-the-projects)
-- [Contact](#contact)
 
 ## 🎓 Course Descriptions
 
