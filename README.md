@@ -8,16 +8,6 @@ Welcome to my Web Programming Courses Portfolio! This repository showcases the a
 - **WEB322: Web Programming Tools and Frameworks**
 - **WEB422: Web Programming for Apps and Services**
 
-## 📋 Table of Contents
-
-- [Course Descriptions](#course-descriptions)
-- [Projects and Assignments](#projects-and-assignments)
-  - [WEB222](https://www.senecapolytechnic.ca/ssos/findOutline.do?isLoggedIn=&subjectOrAndTitle=web222)
-  - [WEB322](https://www.senecapolytechnic.ca/ssos/findOutline.do?isLoggedIn=&subjectOrAndTitle=web322)
-  - [WEB422](https://www.senecapolytechnic.ca/ssos/findOutline.do?isLoggedIn=&subjectOrAndTitle=web422)
-- [Technologies Used](#technologies-used)
-- [How to Run the Projects](#how-to-run-the-projects)
-
 ## 🎓 Course Descriptions
 
 ### WEB222: Web Programming Principles
