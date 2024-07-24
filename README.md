@@ -19,28 +19,6 @@ Design and develop simple web applications and services using JavaScript, along 
 ### WEB422: Web Programming for Apps and Services
 Master the art of creating moderately complex web applications and services that can be scaled. This course emphasizes JavaScript, widely-used frameworks, robust data storage platforms, and deployment methodologies.
 
-## 💻 Projects and Assignments
-
-### WEB222
-
-1. **Project Name**: [Project Link](#)
-   - **Description**: Brief description of the project.
-   - **Technologies**: HTML, CSS, JavaScript
-   - **Key Features**: Highlight any unique features or functionalities.
-
-### WEB322
-
-1. **Project Name**: [Project Link](#)
-   - **Description**: Brief description of the project.
-   - **Technologies**: Node.js, Express.js, MongoDB
-   - **Key Features**: Highlight any unique features or functionalities.
-
-### WEB422
-
-1. **Project Name**: [Project Link](#)
-   - **Description**: Brief description of the project.
-   - **Technologies**: React.js, Angular, TypeScript
-   - **Key Features**: Highlight any unique features or functionalities.
 
 ## 🛠️ Technologies Used
 
